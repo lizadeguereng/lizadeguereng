@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lizadeguereng
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on any new projects
-- 📫 How to reach me lizadeguerengomba@gmail.com
+Hello! My name is Liza De Guerengomba. At Grand Canyon University, I'm a student seeking a B.S. in software development. I'm currently looking for jobs and internships in software engineering, UI/UX design, and front-end web development. I have a strong interest in front-end development, graphic design, and the.net framework. 
+
+
 
